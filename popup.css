@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0; padding: 50px;
+    width: 300px;
+}
+
+.container {
+    max-width: 300px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+.qoute-container {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#qoute {
+    font-size: 18px;
+}
+
+#refresh {
+    padding: 8px 16px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#refresh:hover {
+    background-color: #45a049;
+}
